@@ -41,7 +41,7 @@ You will be prompted to enter three pieces of information.
 
 Spaces in song and artist names are fine. 
 
-You can include these details as options to avoid having to fill them in each time. For example to start active players for the next week including today.
+You can include these details as options to avoid having to fill them in each time. For example.
 
 `python voter.py --votes=700 --song=Dont Go Breaking My Heart --artist=Elton John and Kiki Dee`
 
