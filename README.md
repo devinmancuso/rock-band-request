@@ -2,7 +2,7 @@
 
 **What**
 
-Python Selenium script that votes for a song for the next Rock band. User specifies song, artist and number of times to vote
+Python Selenium script that submits a vote for a song for the next Rock band game by [Harmonix Music](http://www.harmonixmusic.com/games/rock-band/request/ "Harmonix Music"). User specifies song, artist and number of times to vote
 
 
 **Why**
@@ -35,9 +35,9 @@ To run the program
 
 You will be prompted to enter three pieces of information.
 
-1. the number of times you want the bot to vote
-2. the song name
-3. the artist name
+* the number of times you want the bot to vote
+* the song name
+* the artist name
 
 Spaces in song and artist names are fine. 
 
