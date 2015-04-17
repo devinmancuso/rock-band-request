@@ -44,9 +44,6 @@ def voter(votes, song, artist):
 		print("Vote: "),
 		print(votecount)	
 		votecount += 1
-		#driver.find_element_by_class_name('thanks').click()
-		#driver.find_element_by_link_text('Submit another request')
-		#driver.find_element_by_link_text('SUBMIT ANOTHER REQUEST')
 		driver.find_element_by_xpath("//a[@href='/games/rock-band/request/']").click()
 		time.sleep(4)
 
